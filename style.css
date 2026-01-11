@@ -1220,3 +1220,7 @@ footer span a:hover {
     width: 250px;
   }
 }
+
+.more-text {
+  display: none;
+}
